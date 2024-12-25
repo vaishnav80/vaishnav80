@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishnav
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python From Brocamp
+- 🌱 I’m a Python Fullstack developer (Django +React)
 - 📫 How to reach me ... vaishnavpuzhakkal3@gmail.com
 
 
