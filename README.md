@@ -1,7 +1,5 @@
 # Vaishnav P - Full Stack Developer
 
-![Profile Banner](https://your-image-link.com)  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vaishnav-puzhakkal)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Vaishnav_puzhakkal/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vaishnav80)  
